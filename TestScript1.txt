@@ -1,0 +1,11 @@
+public class Test1{
+@Test
+public void tc1(){
+System.out.println("success");
+}
+@Test
+public void tc(){
+System.out.println("register-success");
+}
+
+}
